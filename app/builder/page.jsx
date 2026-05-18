@@ -86,6 +86,7 @@ const BoardBuilder = (props) => {
           </div>
         </div>
       </CustomControlProvider>
+      
     </div>
   )
 }
